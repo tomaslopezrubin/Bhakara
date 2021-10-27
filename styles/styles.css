@@ -1,0 +1,298 @@
+.logo{
+    margin-left: 2rem;
+}
+
+.fortu{
+    margin-right: 3rem;
+}
+
+.fotos{
+    background-color: black;
+}
+.separador{
+    background-color: black;
+    font-size: 5px;
+}
+
+
+
+
+.uno{
+    width: 550px;
+    height: 1024px;
+}
+.dos{
+    width: 445px;
+    height: 1024px;
+}
+
+.tres{
+    width: 430px;
+    height: 1024px;
+}
+
+.doce{
+    background-color: black;
+    height: 300px;
+}
+
+.fotoss{
+    height: 300px;
+    width: 250px;
+    
+}
+
+.doce{
+    border: 1px solid rgb(8, 8, 8);
+}
+
+.fotosss{
+    height: 300px;
+    width: 200px;
+    
+}
+
+.logo{
+    color: blanchedalmond;
+}
+
+
+.separador-productos{
+    background-color: rgb(43, 34, 34);
+    font-size: 50px;
+    color: rgb(168, 149, 119);
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.bure{
+    display: flex;
+    justify-content: center;
+    font-family: 'Anton', sans-serif;
+}
+
+.card{
+    background-color: black;
+}
+
+.card-title{
+    color: white;
+}
+
+@media all and (max-width: 1000px){
+
+.card{
+    align-items: center;
+}
+}
+
+
+
+.container{
+    width: 500px;
+    padding: 10px;
+    background-color: black;
+}
+
+.usuario{
+    margin-top: 40px;
+    background-color: black;
+}
+
+.for{
+    display: flex;
+    justify-content: center;
+}
+
+.for{
+    margin-top: 100px;
+    color: white;
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+
+.navv{
+    background-color: black
+}
+
+.nav-link{
+    color: white
+}
+
+.navbar-brand{
+    color: white
+}
+
+.hamburguesa{
+    color: white !important;
+}
+
+.footer__contenedor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    }
+
+.footer__contenedor{
+    margin: 0 auto;
+    width: 90%;
+    
+    }
+
+.footer {
+        font-family: "Source Sans Pro";
+        font-size: 1.25rem;
+        color: #ffffff;
+        background-color: #352f2f;
+        padding: 10px;
+        margin-top: 70px;
+        }
+
+.footerindex{
+    font-family: "Source Sans Pro";
+        font-size: 1.25rem;
+        color: #ffffff;
+        background-color: #352f2f;
+        padding: 10px;
+        margin-top: 10px;
+}
+
+.footer__redesSociales{
+        list-style: none;
+    }
+
+.footer__redesSociales li a{
+    display: inline-block;
+    }
+
+.qwe{
+    margin: 30px;
+    color: white;
+    }
+
+a{
+    color: white;
+}
+
+.perfumo{
+    display: flex;
+    background-color:rgb(48, 186, 228);
+    width: 1200px;
+    height: 450px;
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.perdumedos{
+    margin-bottom: 300px;
+}
+
+.combo{
+    margin-left: 80px;
+}
+
+.combodos{
+    margin-top: 170px;
+    font-size: 50px;
+}
+
+.mapa{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.cuadrado{
+    background-color:rgb(37, 38, 39);
+    width: 450px;
+    height: 450px;
+    margin-right: 80px;
+    margin-top: 20px;
+}
+
+.frasecuadrado{
+    color:white;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-family: 'Anton', sans-serif;
+    
+}
+
+.frasebarrio{
+    color: white;
+    margin-left: 20px;
+    margin-top: 120px;
+    font-family: 'Anton', sans-serif;
+    font-size: 60px;
+}
+
+.fraseubi{
+    color: white;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+.cheche{
+    height: 675px;
+    width: 675px;
+    margin-left: 300px;
+    margin-top: 30px;
+}
+
+.chechedos{
+    height: 675px;
+    width: 675px;
+    }
+    
+
+    .comoempezo{
+        margin-left: 185px;
+        margin-top: 40px;
+        color: wheat;
+        font-size: 18px;
+    }
+
+    .comoempezodos{
+        font-size: 18px;
+        margin-left: 150px;
+        margin-top: 50px;
+        color: wheat;
+    }
+
+
+    .diseno{
+        margin-left: 270px;
+        margin-top: 60px;
+        color: wheat;
+        font-size: 18px;
+    }
+
+
+    .disenodos{
+        font-size: 18px;
+        margin-top: 150px;
+        color: wheat;
+    }
+
+   .separadornos{
+       background-color: rgb(43, 34, 34) ;
+       font-size: 50px;
+    color: rgb(168, 149, 119);
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: 'Anton', sans-serif;
+   }
+
+   
+   .frasenosotros{
+       display: flex;
+       justify-content: center;
+   }
+
+   .qwe:hover{
+      transform: scale(2);
+   }

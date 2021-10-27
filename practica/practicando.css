@@ -1,0 +1,84 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.navbar{
+    background-color: black(17, 17, 1);
+    display: grid;
+    grid-template-columns:repeat(8, 1fr);
+    align-items: center;
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+}
+
+
+
+.navbar .logo{
+    width: 100px;
+    height: 100px;
+    grid-column: 2 / 3;
+}
+
+.navbar .menu{
+    grid-column: 4 / 7;
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.navbar .menu li{
+    list-style: none;
+}
+
+.navbar .menu a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+.navbar .menubar{
+    grid-column: 8 / 9;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+@media only screen and  (max-width: 600px) {
+
+}
+
+.medio .clan{
+    background-size: cover;
+}
+
+.footer{
+    display: grid;
+    justify-content: center;
+    align-content: stretch;
+
+}
+
+.social {
+
+   display: grid;
+    align-items: center;
+    display: inline-block;
+    grid-column: 1 / 2;
+    
+}
+
+.chiquita{
+    width: 100px;
+display: inline;
+
+}
+
+.btn{
+    padding: 80px;
+}
+
+
+
