@@ -1,0 +1,10 @@
+1- Agregue estas keywords: ropa, moda, remeras, buzos, gorros
+2- Agregue descripcion a todas las paginas. ejemplo de una de ellas: Marca de ropa con diseños exclusivos y limitados
+3- Cambien los titulos. dejo 3 ejemplos : Bhakara | "Marca de ropa"   -    "Como llegar | Direccion de local" -   "Pagina de contacto Bhakara"
+4- Mejore los encabezados
+5- Cree una pagina 404 que redirige al index
+6- <!----> Agregue estos cositos para organzizar mejor la pagina. ejemplos :<!--MENU-->  <!--DESCRIPCION-->  <!--JAVAS-->  <!--footer-->
+7- Cambie en nombre de las calses para que sean mas entendibles
+8- Reorganize las carpetas
+9- Pase en limpio del css al scc algunas cosas
+10- Cambie h1 por parrafos, ya que era innecesario que este en h1
