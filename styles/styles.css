@@ -296,3 +296,101 @@ a{
    .qwe:hover{
       transform: scale(2);
    }
+
+ .error{
+      background-color: rgb(80, 79, 78);
+      margin-left: 300px;
+      margin-top: 200px;
+  }
+
+  .errordos{
+     margin-top: 100px;
+     margin-left: 110px; 
+  }
+      
+ .carruuu{
+     width: 1015px;
+     height: 600px;
+ } 
+ 
+ @media all and (max-width: 451px){
+
+    .mapa{
+        width: 311px;
+        margin-left: 35px;
+    }
+    }
+
+    @media all and (max-width: 451px){
+
+        .cuadrado{
+            margin-left: 80px;
+        }
+        }
+
+        @media all and (max-width: 1000px){
+
+            .cuadrado{
+                margin-left: 80px;
+                width: 70%;
+            }
+            }
+ 
+  
+
+            @media all and (max-width: 451px){
+
+                .cheche{
+                    margin: 30px;
+                    width: 375px;
+                }
+                }
+
+                @media all and (max-width: 451px){
+
+                    .chechedos{
+                        margin: 30px;
+                        width: 375px;
+                        margin-top: 20px;
+                    }
+                    }
+
+                    @media all and (max-width: 451px){
+
+                        .comoempezodos{
+                            margin: 0px;
+                         
+                        }
+                        }
+
+    @media all and (max-width: 451px){
+
+        .diseno{
+            margin-left: 180px;
+            
+        }
+        }                       
+
+        @media all and (max-width: 451px){
+
+        .disenodos{
+            margin-top: 1px;
+        }
+        }   
+
+
+
+        @media all and (max-width: 451px){
+
+            .uno{
+                width: 451px;
+            }
+            } 
+
+
+        @media all and (max-width: 451px){
+
+            .doce{
+                margin: 90px;
+            }
+            } 
