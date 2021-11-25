@@ -22,12 +22,12 @@
     height: 1024px;
 }
 .dos{
-    width: 445px;
+    width: 470px;
     height: 1024px;
 }
 
 .tres{
-    width: 430px;
+    width: 450px;
     height: 1024px;
 }
 
@@ -48,7 +48,7 @@
 
 .fotosss{
     height: 300px;
-    width: 200px;
+    width: 223px;
     
 }
 
@@ -73,10 +73,12 @@
 
 .card{
     background-color: black;
+    margin-left: 80px;
 }
 
 .card-title{
     color: white;
+    margin-left: 30px;
 }
 
 @media all and (max-width: 1000px){
@@ -115,18 +117,18 @@ body{
 }
 
 .navv{
-    background-color: black
+    background-color: white;
 }
 
 .nav-link{
-    color: white
+    color: white;
 }
 
 .navbar-brand{
-    color: white
+    color: white;
 }
 
-.hamburguesa{
+.hambuerguesa{
     color: white !important;
 }
 
@@ -144,25 +146,25 @@ body{
     }
 
 .footer {
-        font-family: "Source Sans Pro";
-        font-size: 1.25rem;
-        color: #ffffff;
-        background-color: #352f2f;
-        padding: 10px;
-        margin-top: 70px;
-        }
+    font-family: "Source Sans Pro";
+    font-size: 1.25rem;
+    color: #ffffff;
+    background-color: #352f2f;
+    padding: 10px;
+    margin-top: 70px;
+    }
 
 .footerindex{
     font-family: "Source Sans Pro";
-        font-size: 1.25rem;
-        color: #ffffff;
-        background-color: #352f2f;
-        padding: 10px;
-        margin-top: 10px;
+    font-size: 1.25rem;
+    color: #ffffff;
+    background-color: #352f2f;
+    padding: 10px;
+    margin-top: 10px;
 }
 
 .footer__redesSociales{
-        list-style: none;
+    list-style: none;
     }
 
 .footer__redesSociales li a{
@@ -201,7 +203,7 @@ a{
 }
 
 .mapa{
-    margin-left: 80px;
+    margin-left: 33px;
     margin-top: 20px;
 }
 
@@ -210,7 +212,7 @@ a{
     width: 450px;
     height: 450px;
     margin-right: 80px;
-    margin-top: 20px;
+    margin-top: 39px;
 }
 
 .frasecuadrado{
@@ -249,148 +251,644 @@ a{
     }
     
 
-    .comoempezo{
-        margin-left: 185px;
-        margin-top: 40px;
-        color: wheat;
-        font-size: 18px;
+.comoempezo{
+    margin-left: 185px;
+    margin-top: 40px;
+    color: wheat;
+    font-size: 18px;
     }
 
-    .comoempezodos{
-        font-size: 18px;
-        margin-left: 150px;
-        margin-top: 50px;
-        color: wheat;
-    }
-
-
-    .diseno{
-        margin-left: 270px;
-        margin-top: 60px;
-        color: wheat;
-        font-size: 18px;
+.comoempezodos{
+    font-size: 18px;
+    margin-left: 150px;
+    margin-top: 50px;
+    color: wheat;
     }
 
 
-    .disenodos{
-        font-size: 18px;
-        margin-top: 150px;
-        color: wheat;
+.diseno{
+    margin-left: 270px;
+    margin-top: 60px;
+    color: wheat;
+    font-size: 18px;
     }
 
-   .separadornos{
-       background-color: rgb(43, 34, 34) ;
-       font-size: 50px;
+
+.disenodos{
+    font-size: 18px;
+    margin-top: 150px;
+    color: wheat;
+    }
+
+.separadornos{
+    background-color: rgb(43, 34, 34) ;
+    font-size: 50px;
     color: rgb(168, 149, 119);
     margin-top: 40px;
     margin-bottom: 40px;
     font-family: 'Anton', sans-serif;
-   }
+    }
 
-   
-   .frasenosotros{
-       display: flex;
-       justify-content: center;
-   }
 
-   .qwe:hover{
-      transform: scale(2);
-   }
+.frasenosotros{
+    display: flex;
+    justify-content: center;
+    }
 
- .error{
-      background-color: rgb(80, 79, 78);
-      margin-left: 300px;
-      margin-top: 200px;
-  }
+.qwe:hover{
+    transform: scale(2);
+    }
 
-  .errordos{
-     margin-top: 100px;
-     margin-left: 110px; 
-  }
-      
- .carruuu{
-     width: 1015px;
-     height: 600px;
- } 
- 
- @media all and (max-width: 451px){
+.error{
+    background-color: rgb(80, 79, 78);
+    margin-left: 300px;
+    margin-top: 200px;
+    }
+
+.errordos{
+    margin-top: 100px;
+    margin-left: 110px; 
+    }
+
+.carruuu{
+    width: 1015px;
+    height: 600px;
+    } 
+
+@media all and (max-width: 768px){
+
+.mapa{
+    width: 766px;
+    margin-left: 3px;
+    }
+    }
+
+    @media all and (max-width: 768px){
+
+.cuadrado{
+    width: 760px;
+    margin-left: 100px;
+    }
+    }
+
+    @media all and (max-width: 768px){
+
+.footer{
+    width: 780px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.mapa{
+    width: 422px;
+    margin-left: 3px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.cuadrado{
+    width: 425px;
+    margin-left: 100px;
+    }
+    }
+
+@media all and (max-width: 375px){
 
     .mapa{
-        width: 311px;
-        margin-left: 35px;
+    width: 372px;
+    margin-left: 3px;
     }
     }
 
-    @media all and (max-width: 451px){
+@media all and (max-width: 375px){
 
-        .cuadrado{
-            margin-left: 80px;
-        }
-        }
+.cuadrado{
+    margin-left: 73px;
+    width: 500px;
+    }
+    }
 
-        @media all and (max-width: 1000px){
+@media all and (max-width: 320px){
 
-            .cuadrado{
-                margin-left: 80px;
-                width: 70%;
-            }
-            }
- 
-  
+.mapa{
+    width: 320px;
+    margin-left: 3px;
+    }
+    }
 
-            @media all and (max-width: 451px){
+@media all and (max-width: 320px){
+.cuadrado{
+    margin-left: 45px;
+    width: 500px;
+    }
+    }
 
-                .cheche{
-                    margin: 30px;
-                    width: 375px;
-                }
-                }
+@media all and (max-width: 451px){
 
-                @media all and (max-width: 451px){
+.cheche{
+    margin: 30px;
+    width: 375px;
+    }
+    }
 
-                    .chechedos{
-                        margin: 30px;
-                        width: 375px;
-                        margin-top: 20px;
-                    }
-                    }
+@media all and (max-width: 451px){
 
-                    @media all and (max-width: 451px){
+.chechedos{
+    margin: 30px;
+    width: 375px;
+    margin-top: 20px;
+    }
+    }
 
-                        .comoempezodos{
-                            margin: 0px;
-                         
-                        }
-                        }
+@media all and (max-width: 451px){
 
-    @media all and (max-width: 451px){
+.comoempezodos{
+    margin: 0px;
+    }
+    }
 
-        .diseno{
-            margin-left: 180px;
-            
-        }
-        }                       
+@media all and (max-width: 451px){
 
-        @media all and (max-width: 451px){
+.diseno{
+    margin-left: 180px;
+    }
+    }                       
 
-        .disenodos{
-            margin-top: 1px;
-        }
-        }   
+@media all and (max-width: 451px){
 
-
-
-        @media all and (max-width: 451px){
-
-            .uno{
-                width: 451px;
-            }
-            } 
+.disenodos{
+margin-top: 1px;
+    }
+    }   
 
 
-        @media all and (max-width: 451px){
 
-            .doce{
-                margin: 90px;
-            }
-            } 
+@media all and (max-width: 451px){
+
+.uno , .dos , .tres{
+    width: 451px;
+    margin-left: 5px;
+    }
+    } 
+
+@media all and (max-width: 451px){
+
+.dos , .tres{
+    width: 451px;
+    margin-left: 5px;
+    margin-top: 5px;
+    }
+    } 
+
+@media all and (max-width: 451px){
+
+.doce{
+    margin: 90px;
+    display: none;
+    }
+    } 
+
+@media all and (max-width: 780px){
+
+.cheche{
+    margin: 50px;
+
+    }
+    }
+
+@media all and (max-width: 780px){
+
+.chechedos{
+    margin: 50px;
+    margin-top: 20px;
+    }
+    }
+
+
+@media all and (max-width: 780px){
+
+.comoempezo{
+    margin: 20px;
+    margin-left: 330px;
+    margin-bottom: 50px;
+    }
+    }
+
+
+
+@media all and (max-width: 780px){
+
+.comoempezodos{
+    margin: 20px;
+    margin-left: 50px;
+    }
+    }
+
+
+@media all and (max-width: 780px){
+
+.diseno{
+    margin-left: 350px;
+    }
+    } 
+
+@media all and (max-width: 780px){
+
+.disenodos{
+    margin-left: 50px;
+    margin-bottom: 150px;
+    }
+    }
+    
+@media all and (max-width: 1024px){
+
+.uno , .dos , .tres{
+    width: 340px;
+    }
+    } 
+
+@media all and (max-width: 1024px){
+
+.fotosss{
+    width: 160px;
+    }
+    } 
+
+@media all and (max-width: 768px){
+
+.uno , .dos , .tres{
+    width: 768px;
+    margin-left: 5px;
+    }
+    }
+
+@media all and (max-width: 768px){
+
+.fotoss{
+    margin-top: 10px;
+    }
+    }
+
+@media all and (max-width: 768px){
+
+.dos , .tres{
+    width: 768px;
+    margin-left: 5px;
+    margin-top: 5px;
+    }
+    }
+
+@media all and (max-width: 768px){
+
+.fotosss{
+    width: 250px;
+    margin-top: 10px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.uno , .dos , .tres{
+    width: 425px;
+    margin-left: 5px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.uno , .dos , .tres{
+    width: 375px;
+    margin-left: 5px;
+    }
+    }
+
+@media all and (max-width: 1024px){
+
+#carouselExampleCaptions{
+
+width: 1039px;
+}
+} 
+
+@media all and (max-width: 1024px){
+
+.navv{
+width: 1039px;
+}
+}
+
+@media all and (max-width: 1024px){
+
+.footerindex{
+    margin-left: 6px;
+    width: 1027px;
+    }
+    }
+
+@media all and (max-width: 768px){
+
+#carouselExampleCaptions{
+    margin-left: 5px;
+    width: 769px;
+    }
+    } 
+
+@media all and (max-width: 769px){
+        
+.navv{
+    margin-left: 5px;
+    width: 768px;
+    margin-top: 6px;
+    }
+    }
+
+@media all and (max-width: 768px){
+
+.footerindex{
+    width: 767px;
+    }
+    }
+
+
+
+@media all and (max-width: 425px){
+
+#carouselExampleCaptions{
+    margin-left: 5px;
+    width: 425px;
+    }
+    } 
+
+@media all and (max-width: 425px){
+
+.navv{
+    margin-left: 5px;
+    width: 425px;
+    margin-top: 6px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.footerindex{
+    margin-left: 6px;
+    width: 425px;
+    }
+    }
+
+
+@media all and (max-width: 375px){
+
+#carouselExampleCaptions{
+    margin-left: 5px;
+    width: 375px;
+    }
+    } 
+        
+@media all and (max-width: 375px){
+
+.navv{
+    margin-left: 5px;
+    width: 375px;
+    margin-top: 6px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.footerindex{
+    margin-left: 6px;
+    width: 375px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+#carouselExampleCaptions{
+    margin-left: 5px;
+    width: 320px;
+    }
+    } 
+
+@media all and (max-width: 320px){
+
+.navv{
+    margin-left: 5px;
+    width: 320px;
+    margin-top: 6px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.footerindex{
+    margin-left: 6px;
+    width: 320px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.uno , .dos , .tres{
+    width: 320px;
+    margin-left: 5px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.cheche{
+    margin: 42px;
+    width: 350px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.chechedos{
+    margin: 42px;
+    width: 350px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.comoempezo{
+    margin-left: 157px;
+    margin-bottom: 50px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.comoempezodos{
+    margin: 20px;
+    margin-left: 50px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.diseno{
+    margin-left: 190px;
+    }
+    } 
+
+@media all and (max-width: 425px){
+
+.disenodos{
+    margin-left: 35px;
+    margin-bottom: 150px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.separadornos{
+    margin-left: 6px;
+    width: 425px;
+    }
+    }
+
+@media all and (max-width: 425px){
+
+.footer{
+    margin-left: 6px;
+    width: 425px;
+    }
+}
+
+@media all and (max-width: 375px){
+
+.cheche{
+    margin: 35px;
+    width: 315px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.chechedos{
+    margin: 35px;
+    width: 315px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.comoempezo{
+    margin: 20px;
+    margin-left: 130px;
+    margin-bottom: 50px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.comoempezodos{
+    margin: 20px;
+    margin-left: 50px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.diseno{
+    margin-left: 160px;
+    }
+    } 
+
+@media all and (max-width: 375px){
+
+.disenodos{
+    margin-left: 35px;
+    margin-bottom: 150px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.separadornos{
+    margin-left: 6px;
+    width: 374px;
+    }
+    }
+
+@media all and (max-width: 375px){
+
+.footer{
+    margin-left: 6px;
+    width: 375px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.cheche{
+    margin: 35px;
+    width: 260px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.chechedos{
+    margin: 35px;
+    width: 260px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.comoempezo{
+    margin: 20px;
+    margin-left: 108px;
+    margin-bottom: 50px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.comoempezodos{
+    margin: 20px;
+    margin-left: 50px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.diseno{
+    margin-left: 140px;
+    }
+    } 
+
+@media all and (max-width: 320px){
+
+.disenodos{
+    margin-left: 35px;
+    margin-bottom: 150px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.separadornos{
+    margin-left: 6px;
+    width: 319px;
+    }
+    }
+
+@media all and (max-width: 320px){
+
+.footer{
+    margin-left: 6px;
+    width: 319px;
+    }
+    }
+
+    
+    .ule{
+        width: 20px;
+    }
