@@ -27,7 +27,7 @@
 }
 
 .tres{
-    width: 450px;
+    width: 435px;
     height: 1024px;
 }
 
@@ -48,7 +48,7 @@
 
 .fotosss{
     height: 300px;
-    width: 223px;
+    width: 205px;
     
 }
 
@@ -113,7 +113,7 @@
 }
 
 body{
-    background-color: black;
+    background-color:black;
 }
 
 .navv{
@@ -374,7 +374,7 @@ a{
 
 .mapa{
     width: 320px;
-    margin-left: 3px;
+    
     }
     }
 
@@ -520,7 +520,7 @@ margin-top: 1px;
 
 .uno , .dos , .tres{
     width: 768px;
-    margin-left: 5px;
+    margin-left: 0px;
     }
     }
 
@@ -533,17 +533,8 @@ margin-top: 1px;
 
 @media all and (max-width: 768px){
 
-.dos , .tres{
-    width: 768px;
-    margin-left: 5px;
-    margin-top: 5px;
-    }
-    }
-
-@media all and (max-width: 768px){
-
 .fotosss{
-    width: 250px;
+    width: 238px;
     margin-top: 10px;
     }
     }
@@ -552,7 +543,7 @@ margin-top: 1px;
 
 .uno , .dos , .tres{
     width: 425px;
-    margin-left: 5px;
+    margin-left: 0px;
     }
     }
 
@@ -560,7 +551,7 @@ margin-top: 1px;
 
 .uno , .dos , .tres{
     width: 375px;
-    margin-left: 5px;
+    margin-left: 0px;
     }
     }
 
@@ -575,7 +566,7 @@ width: 1039px;
 @media all and (max-width: 1024px){
 
 .navv{
-width: 1039px;
+    width: 1039px;
 }
 }
 
@@ -590,7 +581,7 @@ width: 1039px;
 @media all and (max-width: 768px){
 
 #carouselExampleCaptions{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 769px;
     }
     } 
@@ -598,9 +589,9 @@ width: 1039px;
 @media all and (max-width: 769px){
         
 .navv{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 768px;
-    margin-top: 6px;
+    margin-top: 0px;
     }
     }
 
@@ -608,6 +599,7 @@ width: 1039px;
 
 .footerindex{
     width: 767px;
+    margin-left: 0px;
     }
     }
 
@@ -616,7 +608,7 @@ width: 1039px;
 @media all and (max-width: 425px){
 
 #carouselExampleCaptions{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 425px;
     }
     } 
@@ -624,16 +616,16 @@ width: 1039px;
 @media all and (max-width: 425px){
 
 .navv{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 425px;
-    margin-top: 6px;
+    margin-top: 0px;
     }
     }
 
 @media all and (max-width: 425px){
 
 .footerindex{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 425px;
     }
     }
@@ -642,7 +634,7 @@ width: 1039px;
 @media all and (max-width: 375px){
 
 #carouselExampleCaptions{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 375px;
     }
     } 
@@ -650,16 +642,16 @@ width: 1039px;
 @media all and (max-width: 375px){
 
 .navv{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 375px;
-    margin-top: 6px;
+    margin-top: 0px;
     }
     }
 
 @media all and (max-width: 375px){
 
 .footerindex{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 375px;
     }
     }
@@ -667,7 +659,7 @@ width: 1039px;
 @media all and (max-width: 320px){
 
 #carouselExampleCaptions{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 320px;
     }
     } 
@@ -675,25 +667,27 @@ width: 1039px;
 @media all and (max-width: 320px){
 
 .navv{
-    margin-left: 5px;
+    margin-left: 0px;
     width: 320px;
-    margin-top: 6px;
+    margin-top: 0px;
     }
     }
 
 @media all and (max-width: 320px){
 
 .footerindex{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 320px;
     }
     }
+
 
 @media all and (max-width: 320px){
 
 .uno , .dos , .tres{
     width: 320px;
-    margin-left: 5px;
+    margin: 0px;
+    padding: 0px;
     }
     }
 
@@ -755,7 +749,7 @@ width: 1039px;
 @media all and (max-width: 425px){
 
 .footer{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 425px;
     }
 }
@@ -819,7 +813,7 @@ width: 1039px;
 @media all and (max-width: 375px){
 
 .footer{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 375px;
     }
     }
@@ -875,15 +869,15 @@ width: 1039px;
 @media all and (max-width: 320px){
 
 .separadornos{
-    margin-left: 6px;
-    width: 319px;
+    margin-left: 0px;
+    width: 320px;
     }
     }
 
 @media all and (max-width: 320px){
 
 .footer{
-    margin-left: 6px;
+    margin-left: 0px;
     width: 319px;
     }
     }
